@@ -6,8 +6,8 @@
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-  * [Zero-Shot Scene Classification](#Zero-Shot-Scene-Classification)
-  * [Few-Shot Object Detection](#Few-Shot-Object-Detection)
+  * [Few/Zero-shot Scene Classification](#Few/Zero-shot-Scene-Classification)
+  * [Few/Zero-shot Object Detection](#Few/Zero-shot-Object-Detection)
   * [Few/Zero-shot Semantic Segmentation](#Few/Zero-shot-Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
@@ -101,7 +101,7 @@
 
 [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
 
-## Zero-Shot Scene Classification
+## Few/Zero-shot Scene Classification
 [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
 
 [Structural alignment based zero-shot classification for remote sensing scenes](https://ieeexplore.ieee.org/abstract/document/8645056), ICECE 2018.
@@ -114,17 +114,20 @@
 
 [Generative adversarial networks for zero-shot remote sensing scene classification](https://www.mdpi.com/2076-3417/12/8/3760), Applied Sciences 2022.
 
-## Few-Shot Object Detection
+## Few/Zero-shot Object Detection
 [Text semantic fusion relation graph reasoning for few-shot object detection on remote sensing images](https://www.mdpi.com/2072-4292/15/5/1187), Remote Sensing 2023.
 
-[Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
+[Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
 
 ## Few/Zero-shot Semantic Segmentation
 [Semi-supervised contrastive learning for few-shot segmentation of remote sensing images](https://www.mdpi.com/2072-4292/14/17/4254), Remote Sensing 2022.
+
+[Few-shot segmentation of remote sensing images using deep metric learning](https://ieeexplore.ieee.org/abstract/document/9721235), GRSL 2022.
+
+[Language-aware domain generalization network for cross-scene hyperspectral image classification](https://ieeexplore.ieee.org/abstract/document/10005113), TGRS 2023 [[code]](https://github.com/YuxiangZhang-BIT/IEEE_TGRS_LDGnet)
+
 ## Others
-
-
-
+[APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP](https://arxiv.org/abs/2304.05995), CVPR 2023 [[code]](https://github.com/mainaksingha01/APPLeNet)
 
 
 # Dataset
