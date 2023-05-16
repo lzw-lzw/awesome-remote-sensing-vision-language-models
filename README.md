@@ -7,9 +7,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-  * [Few/Zero-shot Scene Classification](#Few/Zero-shot-Scene-Classification)
-  * [Few/Zero-shot Object Detection](#Few/Zero-shot-Object-Detection)
-  * [Few/Zero-shot Semantic Segmentation](#Few/Zero-shot-Semantic-Segmentation)
+  * [Few/Zero shot Scene Classification](#Few/Zero-shot-Scene-Classification)
+  * [Few/Zero shot Object Detection](#Few/Zero-shot-Object-Detection)
+  * [Few/Zero shot Semantic Segmentation](#Few/Zero-shot-Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
@@ -105,7 +105,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * 
 * [Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
-## Few/Zero-shot Scene Classification
+## Few/Zero shot Scene Classification
 * [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
 
 * [Fine-grained object recognition and zero-shot learning in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/8071030), TGRS 2017.
@@ -120,12 +120,12 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP](https://arxiv.org/abs/2304.05995), CVPR 2023 [[code]](https://github.com/mainaksingha01/APPLeNet)
 
-## Few/Zero-shot Object Detection
+## Few/Zero shot Object Detection
 * [Text semantic fusion relation graph reasoning for few-shot object detection on remote sensing images](https://www.mdpi.com/2072-4292/15/5/1187), Remote Sensing 2023.
 
 * [Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
 
-## Few/Zero-shot Semantic Segmentation
+## Few/Zero shot Semantic Segmentation
 * [Semi-supervised contrastive learning for few-shot segmentation of remote sensing images](https://www.mdpi.com/2072-4292/14/17/4254), Remote Sensing 2022.
 
 * [Few-shot segmentation of remote sensing images using deep metric learning](https://ieeexplore.ieee.org/abstract/document/9721235), GRSL 2022.
