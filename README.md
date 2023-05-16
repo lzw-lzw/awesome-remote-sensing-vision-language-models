@@ -1,5 +1,5 @@
 # Awesome remote sensing vision language models
-This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expanded upon it.
+This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expand upon it.
 ## Table of Contents
 * [Research papers](#Research-papers)
   * [Image Captioning](#Image-Captioning)
@@ -173,9 +173,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
 ## Few or Zero-shot Object Detection Dataset
-* [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+* [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5cczaUNysmiFRH4eE)   [[BaiduYun]](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F) 
 
-* [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)
+* [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)   [[Google Drive]](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)    [[BaiduYun]](https://pan.baidu.com/s/1iLKT0JQoKXEJTGNxt5lSMg#list/path=%2F)
 
 * [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw?pwd=u2xg)
 
