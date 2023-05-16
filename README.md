@@ -6,6 +6,8 @@
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
+  * [Zero-Shot Scene Classification](#Zero-Shot-Scene-Classification)
+  * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
   * [Text-based Image Generation dataset](#Text-based-Image-Generation-Dataset)
@@ -96,6 +98,24 @@
 [Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
 [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
+
+## Zero-Shot Scene Classification
+[Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
+
+[Structural alignment based zero-shot classification for remote sensing scenes](https://ieeexplore.ieee.org/abstract/document/8645056), ICECE 2018.
+
+[Fine-grained object recognition and zero-shot learning in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/8071030), TGRS 2017.
+
+[A distance-constrained semantic autoencoder for zero-shot remote sensing scene classification](https://ieeexplore.ieee.org/abstract/document/9633210), J-STARS 2021.
+
+[Learning deep crossmodal embedding networks for zero-shot remote sensing image scene classification](https://ieeexplore.ieee.org/abstract/document/9321719), TGRS 2021.
+
+[Generative adversarial networks for zero-shot remote sensing scene classification](https://www.mdpi.com/2076-3417/12/8/3760), Applied Sciences 2022.
+## Others
+
+
+
+
 
 # Dataset
 ## Image Captioning Dataset
