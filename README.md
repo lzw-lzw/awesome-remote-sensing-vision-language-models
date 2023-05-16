@@ -1,4 +1,4 @@
-# awesome-remote-sensing-vision-language-models
+# Awesome remote sensing vision language models
 ## Table of Contents
 * [Research papers](#Research-papers)
   * [Image Captioning](#Image-Captioning)
@@ -6,7 +6,12 @@
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
- * [Datasets](#Datasets)
+* [Datasets](#Datasets)
+  * [Image Captioning](#Image-Captioning)
+  * [Text-based Image Generation](#Text-based-Image-Generation)
+  * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
+  * [Visual Question Answering](#Visual-Question-Answering)
+  * [Visual Grounding](#Visual-Grounding)
 
 # Research papers
 ## Image Captioning
@@ -93,17 +98,25 @@
 [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
 
 # Datasets
-## Visual Question Answering
+## Image Captioning
+* [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
-RSVQA   https://rsvqa.sylvainlobry.com/
+* [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
-
-
+* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
 ## Text-based Image Generation
 
 ## Text-based Image Retrieval
 
 ## Visual Question Answering
+* [RSVQA](https://ieeexplore.ieee.org/abstract/document/9088993)   [[code]](https://github.com/syvlo/RSVQA)  [[homepage]](https://rsvqa.sylvainlobry.com/)
+
+* [RSVQA×BEN](https://ieeexplore.ieee.org/abstract/document/9553307)   [[code]](https://github.com/syvlo/RSVQAxBEN)   [[homepage]](https://rsvqa.sylvainlobry.com/)
+
+* [RSIVQA](https://ieeexplore.ieee.org/document/9444570)  [[code]](https://github.com/spectralpublic/RSIVQA)
+
+* [CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476) [[code]](https://github.com/YZHJessica/CDVQA)
 
 ## Visual Grounding
+* [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
