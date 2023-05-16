@@ -7,6 +7,8 @@
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
   * [Zero-Shot Scene Classification](#Zero-Shot-Scene-Classification)
+  * [Few-Shot Object Detection](#Few-Shot-Object-Detection)
+  * [Few/Zero-shot Semantic Segmentation](#Few/Zero-shot-Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
@@ -111,6 +113,14 @@
 [Learning deep crossmodal embedding networks for zero-shot remote sensing image scene classification](https://ieeexplore.ieee.org/abstract/document/9321719), TGRS 2021.
 
 [Generative adversarial networks for zero-shot remote sensing scene classification](https://www.mdpi.com/2076-3417/12/8/3760), Applied Sciences 2022.
+
+## Few-Shot Object Detection
+[Text semantic fusion relation graph reasoning for few-shot object detection on remote sensing images](https://www.mdpi.com/2072-4292/15/5/1187), Remote Sensing 2023.
+
+[Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
+
+## Few/Zero-shot Semantic Segmentation
+[Semi-supervised contrastive learning for few-shot segmentation of remote sensing images](https://www.mdpi.com/2072-4292/14/17/4254), Remote Sensing 2022.
 ## Others
 
 
