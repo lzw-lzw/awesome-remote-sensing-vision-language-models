@@ -68,9 +68,29 @@
 
 [Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282), Applied Sciences 2023.
 
+## Visual Question Answering
+[Rsvqa: Visual question answering for remote sensing data](https://ieeexplore.ieee.org/abstract/document/9088993), TGRS 2020 [[code]](https://github.com/syvlo/RSVQA)
+
+[Mutual Attention Inception Network for Remote Sensing Visual Question Answering](https://ieeexplore.ieee.org/document/9444570), TGRS 2021 [[code]](https://github.com/spectralpublic/RSIVQA)
+
+[From easy to hard: Learning language-guided curriculum for visual question answering on remote sensing data](https://ieeexplore.ieee.org/abstract/document/9771224), TGRS 2022 [[code]](https://github.com/YZHJessica/VQA-easy2hard)
+
+[Rsvqa meets bigearthnet: a new,large-scale, visual question answering dataset for remote sensing](https://ieeexplore.ieee.org/abstract/document/9553307), IGARSS 2021 [[code]](https://github.com/syvlo/RSVQAxBEN)
+
+[Language transformers for remote sensing visual question answering](https://ieeexplore.ieee.org/abstract/document/9884036), IGARSS 2022.
+
+[Open-ended remote sensing visual question answering with transformers](https://www.tandfonline.com/doi/abs/10.1080/01431161.2022.2145583), International Journal of Remote Sensing 2022.
+
+[Bi-modal transformer-based approach for visual question answering in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/9832935), TGRS 2022.
+
+[Prompt-rsvqa: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), CVPR 2022.
+
+[Change detection meets visual question answering](https://ieeexplore.ieee.org/abstract/document/9901476), TGRS 2022 [[code]](https://github.com/YZHJessica/CDVQA)
+
 # Datasets
+## Visual Question Answering
 
-
+RSVQA   https://rsvqa.sylvainlobry.com/
 
 
 
