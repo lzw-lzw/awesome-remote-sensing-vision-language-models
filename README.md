@@ -1,4 +1,5 @@
 # Awesome remote sensing vision language models
+This repository is based on the paper "Vision-Language Models in Remote Sensing: Current Progress and Future Trends" and expanded upon it.
 ## Table of Contents
 * [Research papers](#Research-papers)
   * [Image Captioning](#Image-Captioning)
