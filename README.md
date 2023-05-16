@@ -1,10 +1,12 @@
 # awesome-remote-sensing-vision-language-models
 ## Table of Contents
-* [Image Captioning](#Image-Captioning)
-* [Text-based Image Generation](#Text-based-Image-Generation)
-* [Text-based Image Retrieval](#Text-based-Image-Retrieval)
-* [Visual Question Answering](#Visual-Question-Answering)
-* [Visual Grounding](#Visual-Grounding)
+* [Research papers](#Research-papers)
+  * [Image Captioning](#Image-Captioning)
+  * [Text-based Image Generation](#Text-based-Image-Generation)
+  * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
+  * [Visual Question Answering](#Visual-Question-Answering)
+  * [Visual Grounding](#Visual-Grounding)
+ * [Datasets](#Datasets)
 
 # Research papers
 ## Image Captioning
@@ -37,6 +39,36 @@
 [Transforming remote sensing images to textual descriptions](https://www.sciencedirect.com/science/article/pii/S0303243422000678), International Journal of Applied Earth Observation and Geoinformation 2022.
 
 [Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217), Journal of Systems Engineering and Electronics 2023.
+
+
+## Text-based Image Generation
+[Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2019.
+
+[Remote sensing image augmentation based on text description for waterside change detection](https://www.mdpi.com/2072-4292/13/10/1894), Remote Sensing 2021.
+
+[Text-to-remote-sensing-image generation with structured generative adversarial networks](https://ieeexplore.ieee.org/abstract/document/9390223), GRSL 2021.
+
+[Txt2img-mhn:Remote sensing image generation from text using modern hopfield network](https://arxiv.org/abs/2208.04441), arxiv 2022 [[code]](https://github.com/YonghaoXu/Txt2Img-MHN)
+
+
+## Text-based Image Retrieval
+[Textrs: Deep bidirectional triplet network for matching text to remote sensing images.](https://www.mdpi.com/2072-4292/12/3/405), Remote Sensing 2020.
+
+[Deep unsupervised embedding for remote sensing image retrieval using textual cues](https://www.mdpi.com/2076-3417/10/24/8931), Applied Sciences 2020.
+
+[Remote sensing cross-modal text-image retrieval based on global and local information], TGRS 2022 [[code]](https://github.com/xiaoyuan1996/GaLR)
+
+[Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022.
+
+[A deep semantic alignment network for the cross-modal image-text retrieval in remote sensing](https://ieeexplore.ieee.org/abstract/document/9395191), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2021.
+
+[A lightweight multi-scale crossmodal text-image retrieval method in remote sensing](https://ieeexplore.ieee.org/abstract/document/9594840), TGRS 2021 [[code]](https://github.com/xiaoyuan1996/retrievalSystem)
+
+[Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieva](https://arxiv.org/abs/2204.09868), TGRS 2022.
+
+[Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282), Applied Sciences 2023.
+
+# Datasets
 
 
 
