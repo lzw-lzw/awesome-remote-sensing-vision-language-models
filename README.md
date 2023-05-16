@@ -17,6 +17,9 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
   * [Text-based Image Retrieval dataset](#Text-based-Image-Retrieval-Dataset)
   * [Visual Question Answering dataset](#Visual-Question-Answering-Dataset)
   * [Visual Grounding dataset](#Visual-Grounding-Dataset)
+  * [Few/Zero-shot Scene Classification dataset](#Few/Zero-shot-Scene-Classification-Dataset)
+  * [Few/Zero-shot Object Detection dataset](#Few/Zero-shot-Object-Detection-Dataset)
+  * [Few/Zero-shot Semantic Segmentation dataset](#Few/Zero-shot-Semantic-Segmentation-Dataset)
 
 # Research papers
 ## Image Captioning
@@ -154,3 +157,21 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 
 ## Visual Grounding Dataset
 * [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
+
+## Few/Zero-shot Scene Classification Dataset
+* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+
+* [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)
+
+* [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
+
+
+## Few/Zero-shot Object Detection Dataset
+* [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+
+* [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)
+
+* [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw "提取码:u2xg")
+## Few/Zero-shot Semantic SegmentationDataset
+
+
