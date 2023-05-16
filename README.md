@@ -169,7 +169,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)   [[Google Drive]](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_?usp=sharing)
 
 ## Few or Zero-shot Scene Classification Dataset
-* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[One Drive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU)
+* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU)
 
 * [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)   [[OneDrive]](https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ)  [[BaiduYun]](https://pan.baidu.com/s/1mifOBv6#list/path=%2F)
 
