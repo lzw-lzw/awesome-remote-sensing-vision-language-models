@@ -56,7 +56,7 @@
 
 [Deep unsupervised embedding for remote sensing image retrieval using textual cues](https://www.mdpi.com/2076-3417/10/24/8931), Applied Sciences 2020.
 
-[Remote sensing cross-modal text-image retrieval based on global and local information], TGRS 2022 [[code]](https://github.com/xiaoyuan1996/GaLR)
+[Remote sensing cross-modal text-image retrieval based on global and local information](https://ieeexplore.ieee.org/abstract/document/9745546), TGRS 2022 [[code]](https://github.com/xiaoyuan1996/GaLR)
 
 [Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022.
 
