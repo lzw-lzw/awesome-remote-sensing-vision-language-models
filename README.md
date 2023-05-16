@@ -136,20 +136,20 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 # Dataset
 ## Image Captioning Dataset
-* [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code]](https://github.com/201528014227051/RSICD_optimal) 
+* [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code]](https://github.com/201528014227051/RSICD_optimal)  [[BaiduYun]](https://pan.baidu.com/s/1bp71tE3#list/path=%2F)  [[Google Drive]](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)
 
-* [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
+* [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal)  [[BaiduYun]](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)
 
-* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
+* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal)  [[BaiduYun]](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)
 
-* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU#list/path=%2F)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)
 
-* [DIOR-Captions](https://ieeexplore.ieee.org/abstract/document/10066217)
+* [DIOR-Captions](https://ieeexplore.ieee.org/abstract/document/10066217) Not yet open source.
 
 ## Text-based Image Generation Dataset
 
 ## Text-based Image Retrieval Dataset
-* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
+* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal)   [[BaiduYun]](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)
 
 * [RSITMD](https://arxiv.org/abs/2204.09868)  [[BaiduYun]](https://pan.baidu.com/s/1gDj38mzUL-LmQX32PYxr0Q?pwd=NIST)  [[Google Driver]](https://drive.google.com/file/d/1NJY86TAAUd8BVs7hyteImv8I2_Lh95W6/view?usp=sharing)
 
@@ -163,12 +163,12 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476) [[code]](https://github.com/YZHJessica/CDVQA)
 
 ## Visual Grounding Dataset
-* [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
+* [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)   [[Google Drive]](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_?usp=sharing)
 
 ## Few or Zero-shot Scene Classification Dataset
-* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[One Drive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU)
 
-* [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)
+* [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)   [[OneDrive]](https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ)  [[BaiduYun]](https://pan.baidu.com/s/1mifOBv6#list/path=%2F)
 
 * [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
