@@ -1,5 +1,5 @@
 # Awesome remote sensing vision language models
-This repository is based on the paper "Vision-Language Models in Remote Sensing: Current Progress and Future Trends" and expanded upon it.
+This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expanded upon it.
 ## Table of Contents
 * [Research papers](#Research-papers)
   * [Image Captioning](#Image-Captioning)
@@ -77,7 +77,7 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 
 * [Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582), J-STARS 2022.
 
-* [Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieva](https://arxiv.org/abs/2204.09868), TGRS 2022.
+* [Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieva](https://arxiv.org/abs/2204.09868), TGRS 2022 [[code]](https://github.com/xiaoyuan1996/AMFMN)
 
 * [Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282), Applied Sciences 2023.
 
@@ -142,9 +142,16 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 
 * [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
 
+* [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
+
+* [DIOR-Captions](https://ieeexplore.ieee.org/abstract/document/10066217)
+
 ## Text-based Image Generation Dataset
 
 ## Text-based Image Retrieval Dataset
+* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
+
+* [RSITMD](https://arxiv.org/abs/2204.09868)  [[BaiduYun]](https://pan.baidu.com/s/1gDj38mzUL-LmQX32PYxr0Q?pwd=NIST)  [[Google Driver]](https://drive.google.com/file/d/1NJY86TAAUd8BVs7hyteImv8I2_Lh95W6/view?usp=sharing)
 
 ## Visual Question Answering Dataset
 * [RSVQA](https://ieeexplore.ieee.org/abstract/document/9088993)   [[code]](https://github.com/syvlo/RSVQA)  [[data]](https://rsvqa.sylvainlobry.com/)
@@ -164,7 +171,6 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 * [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)
 
 * [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
-
 
 ## Few/Zero-shot Object Detection Dataset
 * [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
