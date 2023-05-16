@@ -2,6 +2,7 @@
 This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expand upon it.
 ## Table of Contents
 * [Research papers](#Research-papers)
+  * [Surveys](#Survey)
   * [Image Captioning](#Image-Captioning)
   * [Text-based Image Generation](#Text-based-Image-Generation)
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
@@ -22,6 +23,8 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Few or Zero-shot Semantic Segmentation dataset](#Few-Or-Zero-Shot-Semantic-Segmentation-Dataset)
 
 # Research papers
+## Surveys
+* [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726), arxiv 2023.
 ## Image Captioning
 * [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
 
@@ -179,7 +182,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw?pwd=u2xg)
 
-## Few or Zero-shot Semantic SegmentationDataset
+## Few or Zero-shot Semantic Segmentation Dataset
 * [Vaihingen](https://www.repo.uni-hannover.de/handle/123456789/5086)  [[BaiduYun]](https://pan.baidu.com/s/1EShNi22VfuIu3e6VygMb8g?pwd=3gsr)
 
 * Potsdam  [[BaiduYun]](https://pan.baidu.com/s/13rdBXUN_ZdelWNlQZ3Y1TQ?pwd=6c3y)
