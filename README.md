@@ -49,7 +49,7 @@
 
 
 ## Text-based Image Generation
-[Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2019.
+[Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), J-STARS 2019.
 
 [Remote sensing image augmentation based on text description for waterside change detection](https://www.mdpi.com/2072-4292/13/10/1894), Remote Sensing 2021.
 
@@ -65,9 +65,9 @@
 
 [Remote sensing cross-modal text-image retrieval based on global and local information](https://ieeexplore.ieee.org/abstract/document/9745546), TGRS 2022 [[code]](https://github.com/xiaoyuan1996/GaLR)
 
-[Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2022.
+[Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582), J-STARS 2022.
 
-[A deep semantic alignment network for the cross-modal image-text retrieval in remote sensing](https://ieeexplore.ieee.org/abstract/document/9395191), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2021.
+[A deep semantic alignment network for the cross-modal image-text retrieval in remote sensing](https://ieeexplore.ieee.org/abstract/document/9395191), J-STARS 2021.
 
 [A lightweight multi-scale crossmodal text-image retrieval method in remote sensing](https://ieeexplore.ieee.org/abstract/document/9594840), TGRS 2021 [[code]](https://github.com/xiaoyuan1996/retrievalSystem)
 
