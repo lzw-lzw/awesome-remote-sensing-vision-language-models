@@ -105,7 +105,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 ## Visual Grounding
 * [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
-* 
+ 
 * [Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
 ## Few or Zero shot Scene Classification
