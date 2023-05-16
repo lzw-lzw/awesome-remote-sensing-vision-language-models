@@ -7,9 +7,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-  * [Few/Zero shot Scene Classification](#Few/Zero-shot-Scene-Classification)
-  * [Few/Zero shot Object Detection](#Few/Zero-shot-Object-Detection)
-  * [Few/Zero shot Semantic Segmentation](#Few/Zero-shot-Semantic-Segmentation)
+  * [Few/Zero shot Scene Classification](#Few/Zero-Shot-Scene-Classification)
+  * [Few/Zero shot Object Detection](#Few/Zero-Shot-Object-Detection)
+  * [Few/Zero shot Semantic Segmentation](#Few/Zero-Shot-Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
@@ -17,9 +17,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval dataset](#Text-based-Image-Retrieval-Dataset)
   * [Visual Question Answering dataset](#Visual-Question-Answering-Dataset)
   * [Visual Grounding dataset](#Visual-Grounding-Dataset)
-  * [Few/Zero-shot Scene Classification dataset](#Few/Zero-shot-Scene-Classification-Dataset)
-  * [Few/Zero-shot Object Detection dataset](#Few/Zero-shot-Object-Detection-Dataset)
-  * [Few/Zero-shot Semantic Segmentation dataset](#Few/Zero-shot-Semantic-Segmentation-Dataset)
+  * [Few/Zero-shot Scene Classification dataset](#Few/Zero-Shot-Scene-Classification-Dataset)
+  * [Few/Zero-shot Object Detection dataset](#Few/Zero-Shot-Object-Detection-Dataset)
+  * [Few/Zero-shot Semantic Segmentation dataset](#Few/Zero-Shot-Semantic-Segmentation-Dataset)
 
 # Research papers
 ## Image Captioning
