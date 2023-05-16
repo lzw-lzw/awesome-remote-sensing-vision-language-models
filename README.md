@@ -7,9 +7,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-  * [Few/Zero shot Scene Classification](#Few/Zero-Shot-Scene-Classification)
-  * [Few/Zero shot Object Detection](#Few/Zero-Shot-Object-Detection)
-  * [Few/Zero shot Semantic Segmentation](#Few/Zero-Shot-Semantic-Segmentation)
+  * [Few/Zero shot Scene Classification](#Few/%2FZero-Shot-Scene-Classification)
+  * [Few/Zero shot Object Detection](#Few%2FZero-Shot-Object-Detection)
+  * [Few/Zero shot Semantic Segmentation](#Few%2FZero-Shot-Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
@@ -17,9 +17,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval dataset](#Text-based-Image-Retrieval-Dataset)
   * [Visual Question Answering dataset](#Visual-Question-Answering-Dataset)
   * [Visual Grounding dataset](#Visual-Grounding-Dataset)
-  * [Few/Zero-shot Scene Classification dataset](#Few/Zero-Shot-Scene-Classification-Dataset)
-  * [Few/Zero-shot Object Detection dataset](#Few/Zero-Shot-Object-Detection-Dataset)
-  * [Few/Zero-shot Semantic Segmentation dataset](#Few/Zero-Shot-Semantic-Segmentation-Dataset)
+  * [Few/Zero-shot Scene Classification dataset](#Few%2FZero-Shot-Scene-Classification-Dataset)
+  * [Few/Zero-shot Object Detection dataset](#Few%2FZero-Shot-Object-Detection-Dataset)
+  * [Few/Zero-shot Semantic Segmentation dataset](#Few%2FZero-Shot-Semantic-Segmentation-Dataset)
 
 # Research papers
 ## Image Captioning
@@ -105,7 +105,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * 
 * [Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
-## Few/Zero shot Scene Classification
+## Few%2FZero shot Scene Classification
 * [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
 
 * [Fine-grained object recognition and zero-shot learning in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/8071030), TGRS 2017.
@@ -120,12 +120,12 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP](https://arxiv.org/abs/2304.05995), CVPR 2023 [[code]](https://github.com/mainaksingha01/APPLeNet)
 
-## Few/Zero shot Object Detection
+## Few%2FZero shot Object Detection
 * [Text semantic fusion relation graph reasoning for few-shot object detection on remote sensing images](https://www.mdpi.com/2072-4292/15/5/1187), Remote Sensing 2023.
 
 * [Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
 
-## Few/Zero shot Semantic Segmentation
+## Few%2FZero shot Semantic Segmentation
 * [Semi-supervised contrastive learning for few-shot segmentation of remote sensing images](https://www.mdpi.com/2072-4292/14/17/4254), Remote Sensing 2022.
 
 * [Few-shot segmentation of remote sensing images using deep metric learning](https://ieeexplore.ieee.org/abstract/document/9721235), GRSL 2022.
@@ -165,21 +165,21 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 ## Visual Grounding Dataset
 * [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
-## Few/Zero-shot Scene Classification Dataset
+## Few%2FZero-shot Scene Classification Dataset
 * [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
 
 * [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)
 
 * [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
-## Few/Zero-shot Object Detection Dataset
+## Few%2FZero-shot Object Detection Dataset
 * [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)
 
 * [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)
 
 * [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw?pwd=u2xg)
 
-## Few/Zero-shot Semantic SegmentationDataset
+## Few%2FZero-shot Semantic SegmentationDataset
 * [Vaihingen](https://www.repo.uni-hannover.de/handle/123456789/5086)  [[BaiduYun]](https://pan.baidu.com/s/1EShNi22VfuIu3e6VygMb8g?pwd=3gsr)
 
 * Potsdam  [[BaiduYun]](https://pan.baidu.com/s/13rdBXUN_ZdelWNlQZ3Y1TQ?pwd=6c3y)
