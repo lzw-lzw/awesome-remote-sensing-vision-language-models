@@ -6,12 +6,12 @@
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-* [Datasets](#Datasets)
-  * [Image Captioning](#Image-Captioning)
-  * [Text-based Image Generation](#Text-based-Image-Generation)
-  * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
-  * [Visual Question Answering](#Visual-Question-Answering)
-  * [Visual Grounding](#Visual-Grounding)
+* [Dataset](#Dataset)
+  * [Image Captioning dataset](#Image-Captioning-Dataset)
+  * [Text-based Image Generation dataset](#Text-based-Image-Generation-Dataset)
+  * [Text-based Image Retrieval dataset](#Text-based-Image-Retrieval-Dataset)
+  * [Visual Question Answering dataset](#Visual-Question-Answering-Dataset)
+  * [Visual Grounding dataset](#Visual-Grounding-Dataset)
 
 # Research papers
 ## Image Captioning
@@ -97,19 +97,19 @@
 
 [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
 
-# Datasets
-## Image Captioning
+# Dataset
+## Image Captioning Dataset
 * [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
 * [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
 * [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
 
-## Text-based Image Generation
+## Text-based Image Generation Dataset
 
-## Text-based Image Retrieval
+## Text-based Image Retrieval Dataset
 
-## Visual Question Answering
+## Visual Question Answering Dataset
 * [RSVQA](https://ieeexplore.ieee.org/abstract/document/9088993)   [[code]](https://github.com/syvlo/RSVQA)  [[homepage]](https://rsvqa.sylvainlobry.com/)
 
 * [RSVQA×BEN](https://ieeexplore.ieee.org/abstract/document/9553307)   [[code]](https://github.com/syvlo/RSVQAxBEN)   [[homepage]](https://rsvqa.sylvainlobry.com/)
@@ -118,5 +118,5 @@
 
 * [CDVQA](https://ieeexplore.ieee.org/abstract/document/9901476) [[code]](https://github.com/YZHJessica/CDVQA)
 
-## Visual Grounding
+## Visual Grounding Dataset
 * [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
