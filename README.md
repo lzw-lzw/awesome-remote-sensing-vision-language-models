@@ -2,7 +2,7 @@
 This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expand upon it.
 ## Table of Contents
 * [Research papers](#Research-papers)
-  * [Surveys](#Survey)
+  * [Surveys](#Surveys)
   * [Image Captioning](#Image-Captioning)
   * [Text-based Image Generation](#Text-based-Image-Generation)
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
