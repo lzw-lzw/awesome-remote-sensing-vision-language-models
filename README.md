@@ -83,9 +83,14 @@
 
 [Bi-modal transformer-based approach for visual question answering in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/9832935), TGRS 2022.
 
-[Prompt-rsvqa: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), CVPR 2022.
+[Prompt-rsvqa: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), CVPRW 2022.
 
 [Change detection meets visual question answering](https://ieeexplore.ieee.org/abstract/document/9901476), TGRS 2022 [[code]](https://github.com/YZHJessica/CDVQA)
+
+## Visual Grounding
+[Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
+
+[Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
 
 # Datasets
 ## Visual Question Answering
