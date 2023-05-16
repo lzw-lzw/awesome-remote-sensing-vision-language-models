@@ -136,20 +136,20 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 
 # Dataset
 ## Image Captioning Dataset
-* [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
+* [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code]](https://github.com/201528014227051/RSICD_optimal) 
 
-* [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
+* [Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
 
-* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code/data]](https://github.com/201528014227051/RSICD_optimal) 
+* [UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397) [[code]](https://github.com/201528014227051/RSICD_optimal) 
 
 ## Text-based Image Generation Dataset
 
 ## Text-based Image Retrieval Dataset
 
 ## Visual Question Answering Dataset
-* [RSVQA](https://ieeexplore.ieee.org/abstract/document/9088993)   [[code]](https://github.com/syvlo/RSVQA)  [[homepage]](https://rsvqa.sylvainlobry.com/)
+* [RSVQA](https://ieeexplore.ieee.org/abstract/document/9088993)   [[code]](https://github.com/syvlo/RSVQA)  [[data]](https://rsvqa.sylvainlobry.com/)
 
-* [RSVQA×BEN](https://ieeexplore.ieee.org/abstract/document/9553307)   [[code]](https://github.com/syvlo/RSVQAxBEN)   [[homepage]](https://rsvqa.sylvainlobry.com/)
+* [RSVQA×BEN](https://ieeexplore.ieee.org/abstract/document/9553307)   [[code]](https://github.com/syvlo/RSVQAxBEN)   [[data]](https://rsvqa.sylvainlobry.com/)
 
 * [RSIVQA](https://ieeexplore.ieee.org/document/9444570)  [[code]](https://github.com/spectralpublic/RSIVQA)
 
@@ -171,7 +171,11 @@ This repository is based on the paper "Vision-Language Models in Remote Sensing:
 
 * [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)
 
-* [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw "提取码:u2xg")
+* [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw?pwd=u2xg)
+
 ## Few/Zero-shot Semantic SegmentationDataset
+* [Vaihingen](https://www.repo.uni-hannover.de/handle/123456789/5086)  [[BaiduYun]](https://pan.baidu.com/s/1EShNi22VfuIu3e6VygMb8g?pwd=3gsr)
 
+* Potsdam  [[BaiduYun]](https://pan.baidu.com/s/13rdBXUN_ZdelWNlQZ3Y1TQ?pwd=6c3y)
 
+* [GID](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)  [[data]](https://x-ytong.github.io/project/GID.html)   [[BaiduYun]](https://pan.baidu.com/share/init?surl=_DQluiDgJ4Z7dXSnciVx1A?pwd=GID5)
