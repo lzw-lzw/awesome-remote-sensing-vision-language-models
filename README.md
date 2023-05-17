@@ -187,4 +187,4 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * Potsdam  [[BaiduYun]](https://pan.baidu.com/s/13rdBXUN_ZdelWNlQZ3Y1TQ?pwd=6c3y)
 
-* [GID](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)  [[data]](https://x-ytong.github.io/project/GID.html)   [[BaiduYun]](https://pan.baidu.com/share/init?surl=_DQluiDgJ4Z7dXSnciVx1A?pwd=GID5)
+* [GID](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)  [[data]](https://x-ytong.github.io/project/GID.html)   [[BaiduYun code:GID5]](https://pan.baidu.com/s/1_DQluiDgJ4Z7dXSnciVx1A#list/path=%2F)   [[OneDrive]](https://whueducn-my.sharepoint.com/personal/xinyi_tong_whu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxinyi%5Ftong%5Fwhu%5Fedu%5Fcn%2FDocuments%2FGID&ga=1)
