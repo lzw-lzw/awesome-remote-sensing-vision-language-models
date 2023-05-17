@@ -89,7 +89,13 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Mutual Attention Inception Network for Remote Sensing Visual Question Answering](https://ieeexplore.ieee.org/document/9444570), TGRS 2021 [[code]](https://github.com/spectralpublic/RSIVQA)
 
+* [How to find a good image-text embedding for remote sensing visual question answering?](https://arxiv.org/abs/2109.11848), ECML-PKDD 2021.
+
+* [Cross-Modal Visual Question Answering for Remote Sensing Data: The International Conference on Digital Image Computing: Techniques and Applications](https://ieeexplore.ieee.org/abstract/document/9647287), DICTA 2021.
+
 * [Rsvqa meets bigearthnet: a new,large-scale, visual question answering dataset for remote sensing](https://ieeexplore.ieee.org/abstract/document/9553307), IGARSS 2021 [[code]](https://github.com/syvlo/RSVQAxBEN)
+
+* [Self-Paced Curriculum Learning for Visual Question Answering on Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/9553624), IGARSS 2021.
 
 * [From easy to hard: Learning language-guided curriculum for visual question answering on remote sensing data](https://ieeexplore.ieee.org/abstract/document/9771224), TGRS 2022 [[code]](https://github.com/YZHJessica/VQA-easy2hard)
 
