@@ -25,6 +25,8 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 # Research papers
 ## Surveys
 * [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726), arxiv 2023.
+
+* [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009), arxiv 2023.
 ## Image Captioning
 * [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
 
