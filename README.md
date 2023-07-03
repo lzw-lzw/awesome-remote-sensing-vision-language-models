@@ -149,6 +149,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2306.11300), arxiv 2023
 
+* [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625), arxiv 2023
 # Dataset
 ## Image Captioning Dataset
 * [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code]](https://github.com/201528014227051/RSICD_optimal)  [[BaiduYun]](https://pan.baidu.com/s/1bp71tE3#list/path=%2F)  [[Google Drive]](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)
