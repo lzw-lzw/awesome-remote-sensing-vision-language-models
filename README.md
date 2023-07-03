@@ -143,7 +143,11 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Language-aware domain generalization network for cross-scene hyperspectral image classification](https://ieeexplore.ieee.org/abstract/document/10005113), TGRS 2023 [[code]](https://github.com/YuxiangZhang-BIT/IEEE_TGRS_LDGnet)
 
+* [RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model](https://arxiv.org/abs/2306.16269), arxiv 2023 [[code]](https://github.com/KyanChen/RSPrompter)
 ## Others
+* [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029), arxiv 2023
+
+* [RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2306.11300), arxiv 2023
 
 # Dataset
 ## Image Captioning Dataset
