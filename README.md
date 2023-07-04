@@ -87,7 +87,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282), Applied Sciences 2023.
 
 ## Visual Question Answering
-* [Rsvqa: Visual question answering for remote sensing data](https://ieeexplore.ieee.org/abstract/document/9088993), TGRS 2020 [[code]](https://github.com/syvlo/RSVQA)
+* [RSVQA: Visual question answering for remote sensing data](https://ieeexplore.ieee.org/abstract/document/9088993), TGRS 2020 [[code]](https://github.com/syvlo/RSVQA)
 
 * [Mutual Attention Inception Network for Remote Sensing Visual Question Answering](https://ieeexplore.ieee.org/document/9444570), TGRS 2021 [[code]](https://github.com/spectralpublic/RSIVQA)
 
@@ -95,7 +95,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Cross-Modal Visual Question Answering for Remote Sensing Data: The International Conference on Digital Image Computing: Techniques and Applications](https://ieeexplore.ieee.org/abstract/document/9647287), DICTA 2021.
 
-* [Rsvqa meets bigearthnet: a new,large-scale, visual question answering dataset for remote sensing](https://ieeexplore.ieee.org/abstract/document/9553307), IGARSS 2021 [[code]](https://github.com/syvlo/RSVQAxBEN)
+* [RSVQA meets bigearthnet: a new,large-scale, visual question answering dataset for remote sensing](https://ieeexplore.ieee.org/abstract/document/9553307), IGARSS 2021 [[code]](https://github.com/syvlo/RSVQAxBEN)
 
 * [Self-Paced Curriculum Learning for Visual Question Answering on Remote Sensing Data](https://ieeexplore.ieee.org/abstract/document/9553624), IGARSS 2021.
 
@@ -107,14 +107,18 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Bi-modal transformer-based approach for visual question answering in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/9832935), TGRS 2022.
 
-* [Prompt-rsvqa: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), CVPRW 2022.
+* [Prompt-RSVQA: Prompting visual context to a language model for remote sensing visual question answering](https://openaccess.thecvf.com/content/CVPR2022W/EarthVision/html/Chappuis_Prompt-RSVQA_Prompting_Visual_Context_to_a_Language_Model_for_Remote_CVPRW_2022_paper.html), CVPRW 2022.
 
 * [Change detection meets visual question answering](https://ieeexplore.ieee.org/abstract/document/9901476), TGRS 2022 [[code]](https://github.com/YZHJessica/CDVQA)
 
+* [A spatial hierarchical reasoning network for remote sensing visual question answering](https://ieeexplore.ieee.org/abstract/document/10018408), TGRS 2023.
+
+* [Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10144189), JURSE 2023.
+
 ## Visual Grounding
-* [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022.
+* [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022 [[data]](https://sunyuxi.github.io/publication/GeoVG)
  
-* [Rsvg: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
+* [RSVG: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
 ## Few or Zero shot Scene Classification
 * [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
