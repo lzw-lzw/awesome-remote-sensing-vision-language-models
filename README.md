@@ -60,7 +60,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Transforming remote sensing images to textual descriptions](https://www.sciencedirect.com/science/article/pii/S0303243422000678), International Journal of Applied Earth Observation and Geoinformation 2022.
 
-* [Remote-sensing image captioning based on multilayer aggregated transformer](https://ieeexplore.ieee.org/abstract/document/9709791), GRSL 2022.
+* [Remote-sensing image captioning based on multilayer aggregated transformer](https://ieeexplore.ieee.org/abstract/document/9709791), GRSL 2022.
 
 * [Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217), Journal of Systems Engineering and Electronics 2023.
 
