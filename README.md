@@ -50,14 +50,21 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Word–Sentence Framework for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/abstract/document/9308980), TGRS 2020 [[code]](https://github.com/hw2hwei/WordSent)
 
+* [A novel SVM-based decoder for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9521989), TGRS 2021.
+
 * [High-resolution remote sensing image captioning based on structured attention](https://ieeexplore.ieee.org/abstract/document/9400386), TGRS 2021 [[code]](https://github.com/Saketspradhan/High-Resolution-Remote-Sensing-Image-Captioning-Based-on-Structured-Attention) 
 
 * [Exploring transformer and multilabel classification for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9855519), GRSL 2022.
 
+* [NWPU-captions dataset and mlca-net for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9866055), TGRS 2022.
+
 * [Transforming remote sensing images to textual descriptions](https://www.sciencedirect.com/science/article/pii/S0303243422000678), International Journal of Applied Earth Observation and Geoinformation 2022.
+
+* [Remote-sensing image captioning based on multilayer aggregated transformer](https://ieeexplore.ieee.org/abstract/document/9709791), GRSL 2022.
 
 * [Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217), Journal of Systems Engineering and Electronics 2023.
 
+* [Multi-source interactive stair attention for remote sensing image captioning](https://www.mdpi.com/2072-4292/15/3/579), Remote Sensing 2023.
 
 ## Text-based Image Generation
 * [Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), J-STARS 2019.
