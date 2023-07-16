@@ -19,60 +19,46 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Text-based Image Retrieval dataset](#Text-based-Image-Retrieval-Dataset)
   * [Visual Question Answering dataset](#Visual-Question-Answering-Dataset)
   * [Visual Grounding dataset](#Visual-Grounding-Dataset)
-  * [Few or Zero-shot Scene Classification dataset](#Few-Or-Zero-Shot-Scene-Classification-Dataset)
-  * [Few or Zero-shot Object Detection dataset](#Few-Or-Zero-Shot-Object-Detection-Dataset)
-  * [Few or Zero-shot Semantic Segmentation dataset](#Few-Or-Zero-Shot-Semantic-Segmentation-Dataset)
+  * [Scene Classification dataset](#Scene-Classification-Dataset)
+  * [Object Detection dataset](#Object-Detection-Dataset)
+  * [Semantic Segmentation dataset](#Semantic-Segmentation-Dataset)
 
 
 # Surveys
-* [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726), arxiv 2023.
-
-* [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009), arxiv 2023.
+| Paper                                             |  Published in | Code/Project|                                  
+|---------------------------------------------------|:-------------:|:------------:|
+[Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)|arxiv 2023|-|
+[The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|arxiv 2023|-|
 
 # Applications
 ## Pretraining
-* [S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions](https://arxiv.org/abs/2305.14095),arxiv 2023 [[code]](https://github.com/alinlab/s-clip)
+| Paper                                             |  Published in | Code/Project|                                  
+|---------------------------------------------------|:-------------:|:------------:|
+[S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions](https://arxiv.org/abs/2305.14095)|arxiv 2023|[code](https://github.com/alinlab/s-clip)
   
 ## Image Captioning
-* [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
-
-* [Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?](https://ieeexplore.ieee.org/abstract/document/7891049), TGRS 2017.
-
-* [Exploring models and data for remote sensing image caption generation](https://ieeexplore.ieee.org/abstract/document/8240966), TGRS 2017 [[code]](https://github.com/201528014227051/RSICD_optimal)
-
-* [Natural language escription of remote sensing images based on deep learning](https://ieeexplore.ieee.org/abstract/document/8128075), IGARSS 2017.
-
-* [Description Generation for Remote Sensing Images Using Attribute Attention Mechanism](https://www.mdpi.com/2072-4292/11/6/612), Remote Sensing 2019.
-
-* [Vaa:Visual aligning attention model for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/8843891), IEEE Access 2019.
-
-* [Exploring Multi-Level Attention and Semantic Relationship for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/abstract/document/8943170), IEEE Access 2019.
-
-* [A multi-level attention model for remote sensing image captions](https://www.mdpi.com/2072-4292/12/6/939), Remote Sensing 2020.
-
-* [Remote sensing image captioning via variational autoencoder and reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586), Knowledge-Based Systems 2020.
-
-* [Truncation cross entropy loss for remote sensing image captionin](https://ieeexplore.ieee.org/abstract/document/9153154), TGRS 2020.
-
-* [Word–Sentence Framework for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/abstract/document/9308980), TGRS 2020 [[code]](https://github.com/hw2hwei/WordSent)
-
-* [A novel SVM-based decoder for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9521989), TGRS 2021.
-
-* [High-resolution remote sensing image captioning based on structured attention](https://ieeexplore.ieee.org/abstract/document/9400386), TGRS 2021 [[code]](https://github.com/Saketspradhan/High-Resolution-Remote-Sensing-Image-Captioning-Based-on-Structured-Attention) 
-
-* [Exploring transformer and multilabel classification for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9855519), GRSL 2022.
-
-* [NWPU-captions dataset and mlca-net for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9866055), TGRS 2022.
-
-* [Transforming remote sensing images to textual descriptions](https://www.sciencedirect.com/science/article/pii/S0303243422000678), International Journal of Applied Earth Observation and Geoinformation 2022.
-
-* [Remote-sensing image captioning based on multilayer aggregated transformer](https://ieeexplore.ieee.org/abstract/document/9709791), GRSL 2022.
-
-* [Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217), Journal of Systems Engineering and Electronics 2023.
-
-* [Multi-source interactive stair attention for remote sensing image captioning](https://www.mdpi.com/2072-4292/15/3/579), Remote Sensing 2023.
-
-* [Changes to Captions: An Attentive Network for Remote Sensing Change Captioning](https://arxiv.org/abs/2304.01091), arxiv 2023 [[code]](https://github.com/shizhenchang/chg2cap)
+| Paper                                             |  Published in | Code/Project|                                  
+|---------------------------------------------------|:-------------:|:------------:|
+[Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397)|CITS 2016.
+[Can a Machine Generate Humanlike Language Descriptions for a Remote Sensing Image?](https://ieeexplore.ieee.org/abstract/document/7891049)|TGRS 2017|-|
+[Exploring models and data for remote sensing image caption generation](https://ieeexplore.ieee.org/abstract/document/8240966)|TGRS 2017|[code](https://github.com/201528014227051/RSICD_optimal)|
+[Natural language escription of remote sensing images based on deep learning](https://ieeexplore.ieee.org/abstract/document/8128075)|IGARSS 2017|-|
+[Description Generation for Remote Sensing Images Using Attribute Attention Mechanism](https://www.mdpi.com/2072-4292/11/6/612)|Remote Sensing 2019|-|
+[Vaa:Visual aligning attention model for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/8843891)|IEEE Access 2019|-|
+[Exploring Multi-Level Attention and Semantic Relationship for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/abstract/document/8943170)|IEEE Access 2019|-|
+[A multi-level attention model for remote sensing image captions](https://www.mdpi.com/2072-4292/12/6/939)|Remote Sensing 2020|-|
+[Remote sensing image captioning via variational autoencoder and reinforcement learning](https://www.sciencedirect.com/science/article/abs/pii/S0950705120302586)|Knowledge-Based Systems 2020|-|
+[Truncation cross entropy loss for remote sensing image captionin](https://ieeexplore.ieee.org/abstract/document/9153154)|TGRS 2020|-|
+[Word–Sentence Framework for Remote Sensing Image Captioning](https://ieeexplore.ieee.org/abstract/document/9308980)|TGRS 2020|[code](https://github.com/hw2hwei/WordSent)|
+[A novel SVM-based decoder for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9521989)|TGRS 2021|-|
+[High-resolution remote sensing image captioning based on structured attention](https://ieeexplore.ieee.org/abstract/document/9400386)|TGRS 2021|[code](https://github.com/Saketspradhan/High-Resolution-Remote-Sensing-Image-Captioning-Based-on-Structured-Attention)| 
+[Exploring transformer and multilabel classification for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9855519)|GRSL 2022|-|
+[NWPU-captions dataset and mlca-net for remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/9866055)|TGRS 2022|-|
+[Transforming remote sensing images to textual descriptions](https://www.sciencedirect.com/science/article/pii/S0303243422000678)|INT J APPL EARTH OBS 2022|-|
+[Remote-sensing image captioning based on multilayer aggregated transformer](https://ieeexplore.ieee.org/abstract/document/9709791)|GRSL 2022|-|
+[Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217)|Journal of Systems Engineering and Electronics 2023|-|
+[Multi-source interactive stair attention for remote sensing image captioning](https://www.mdpi.com/2072-4292/15/3/579)|Remote Sensing 2023|-|
+[Changes to Captions: An Attentive Network for Remote Sensing Change Captioning](https://arxiv.org/abs/2304.01091)|arxiv 2023|[code](https://github.com/shizhenchang/chg2cap)|
 
 ## Text-based Image Generation
 * [Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), J-STARS 2019.
@@ -131,10 +117,12 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10144189), JURSE 2023.
 
 ## Visual Grounding
-* [Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316), ACMMM 2022 [[data]](https://sunyuxi.github.io/publication/GeoVG)
- 
-* [RSVG: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
+| Paper                                             |  Published in | Code/Project|                                  
+|---------------------------------------------------|:-------------:|:------------:|
+|[Visual Grounding in Remote Sensing Images](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)|ACMMM 2022|[data](https://sunyuxi.github.io/publication/GeoVG)|
+|[RSVG: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343)|TGRS 2023 |[code](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
+ 
 ## Scene Classification
 * [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
 
@@ -204,21 +192,21 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 ## Visual Grounding Dataset
 * [DIOR-RSVG](https://ieeexplore.ieee.org/abstract/document/10056343)   [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)   [[Google Drive]](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_?usp=sharing)
 
-## Few or Zero-shot Scene Classification Dataset
+## Scene Classification Dataset
 * [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU)
 
 * [AID](https://ieeexplore.ieee.org/abstract/document/7907303)  [[data]](https://captain-whu.github.io/AID/)   [[OneDrive]](https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ)  [[BaiduYun]](https://pan.baidu.com/s/1mifOBv6#list/path=%2F)
 
 * [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)  [[data]](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
 
-## Few or Zero-shot Object Detection Dataset
+## Object Detection Dataset
 * [NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524#preview-section-introduction)  [[data]](https://gcheng-nwpu.github.io/#Datasets)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5cczaUNysmiFRH4eE)   [[BaiduYun]](https://pan.baidu.com/s/1hqwzXeG#list/path=%2F) 
 
 * [DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825) [[data]](https://gcheng-nwpu.github.io/#Datasets)   [[Google Drive]](https://drive.google.com/drive/folders/1UdlgHk49iu6WpcJ5467iT-UqNPpx__CC)    [[BaiduYun]](https://pan.baidu.com/s/1iLKT0JQoKXEJTGNxt5lSMg#list/path=%2F)
 
 * [FAIR1M](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)  [[BaiduYun]](https://pan.baidu.com/share/init?surl=alWnbCbucLOQJJhi4WsZAw?pwd=u2xg)
 
-## Few or Zero-shot Semantic Segmentation Dataset
+## Semantic Segmentation Dataset
 * [Vaihingen](https://www.repo.uni-hannover.de/handle/123456789/5086)  [[BaiduYun]](https://pan.baidu.com/s/1EShNi22VfuIu3e6VygMb8g?pwd=3gsr)
 
 * Potsdam  [[BaiduYun]](https://pan.baidu.com/s/13rdBXUN_ZdelWNlQZ3Y1TQ?pwd=6c3y)
