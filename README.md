@@ -3,14 +3,15 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 ## Table of Contents
 * [Surveys](#Surveys)
 * [Applications](#Applications)
+  * [Pretraining](#Pretraining)
   * [Image Captioning](#Image-Captioning)
   * [Text-based Image Generation](#Text-based-Image-Generation)
-  * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
+  * [Image text Retrieval](#Image-text-Retrieval)
   * [Visual Question Answering](#Visual-Question-Answering)
   * [Visual Grounding](#Visual-Grounding)
-  * [Few or Zero shot Scene Classification](#Few-Or-Zero-Shot-Scene-Classification)
-  * [Few or Zero shot Object Detection](#Few-Or-Zero-Shot-Object-Detection)
-  * [Few or Zero shot Semantic Segmentation](#Few-Or-Zero-Shot-Semantic-Segmentation)
+  * [Scene Classification](#Scene-Classification)
+  * [Object Detection](#Object-Detection)
+  * [Semantic Segmentation](#Semantic-Segmentation)
   * [Others](#Others)
 * [Dataset](#Dataset)
   * [Image Captioning dataset](#Image-Captioning-Dataset)
@@ -29,6 +30,9 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009), arxiv 2023.
 
 # Applications
+## Pretraining
+* [S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions](https://arxiv.org/abs/2305.14095),arxiv 2023 [[code]](https://github.com/alinlab/s-clip)
+  
 ## Image Captioning
 * [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
 
@@ -68,6 +72,8 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [Multi-source interactive stair attention for remote sensing image captioning](https://www.mdpi.com/2072-4292/15/3/579), Remote Sensing 2023.
 
+* [Changes to Captions: An Attentive Network for Remote Sensing Change Captioning](https://arxiv.org/abs/2304.01091), arxiv 2023 [[code]](https://github.com/shizhenchang/chg2cap)
+
 ## Text-based Image Generation
 * [Retro-Remote Sensing: Generating Images From Ancient Texts](https://ieeexplore.ieee.org/abstract/document/8660422), J-STARS 2019.
 
@@ -78,7 +84,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [Txt2img-mhn:Remote sensing image generation from text using modern hopfield network](https://arxiv.org/abs/2208.04441), arxiv 2022 [[code]](https://github.com/YonghaoXu/Txt2Img-MHN)
 
 
-## Text-based Image Retrieval
+## Image-text Retrieval
 * [Textrs: Deep bidirectional triplet network for matching text to remote sensing images.](https://www.mdpi.com/2072-4292/12/3/405), Remote Sensing 2020.
 
 * [Deep unsupervised embedding for remote sensing image retrieval using textual cues](https://www.mdpi.com/2076-3417/10/24/8931), Applied Sciences 2020.
@@ -129,7 +135,7 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
  
 * [RSVG: Exploring data and models for visual grounding on remote sensing data](https://ieeexplore.ieee.org/abstract/document/10056343), TGRS 2023 [[code]](https://github.com/ZhanYang-nwpu/RSVG-pytorch)
 
-## Few or Zero shot Scene Classification
+## Scene Classification
 * [Zero-shot scene classification for high spatial resolution remote sensing images](https://ieeexplore.ieee.org/abstract/document/7902107), TGRS 2017.
 
 * [Fine-grained object recognition and zero-shot learning in remote sensing imagery](https://ieeexplore.ieee.org/abstract/document/8071030), TGRS 2017.
@@ -144,12 +150,12 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 
 * [APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP](https://arxiv.org/abs/2304.05995), CVPR 2023 [[code]](https://github.com/mainaksingha01/APPLeNet)
 
-## Few or Zero shot Object Detection
+## Object Detection
 * [Text semantic fusion relation graph reasoning for few-shot object detection on remote sensing images](https://www.mdpi.com/2072-4292/15/5/1187), Remote Sensing 2023.
 
 * [Few-shot object detection in aerial imagery guided by textmodal knowledge](https://ieeexplore.ieee.org/abstract/document/10056362) ,TGRS 2023.
 
-## Few or Zero shot Semantic Segmentation
+## Semantic Segmentation
 * [Semi-supervised contrastive learning for few-shot segmentation of remote sensing images](https://www.mdpi.com/2072-4292/14/17/4254), Remote Sensing 2022.
 
 * [Few-shot segmentation of remote sensing images using deep metric learning](https://ieeexplore.ieee.org/abstract/document/9721235), GRSL 2022.
@@ -157,12 +163,16 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [Language-aware domain generalization network for cross-scene hyperspectral image classification](https://ieeexplore.ieee.org/abstract/document/10005113), TGRS 2023 [[code]](https://github.com/YuxiangZhang-BIT/IEEE_TGRS_LDGnet)
 
 * [RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model](https://arxiv.org/abs/2306.16269), arxiv 2023 [[code]](https://github.com/KyanChen/RSPrompter)
+
+* [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625), arxiv 2023
+
+
 ## Others
 * [RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029), arxiv 2023
 
 * [RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2306.11300), arxiv 2023
 
-* [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625), arxiv 2023
+
 # Dataset
 ## Image Captioning Dataset
 * [RSICD](https://ieeexplore.ieee.org/abstract/document/8240966) [[code]](https://github.com/201528014227051/RSICD_optimal)  [[BaiduYun]](https://pan.baidu.com/s/1bp71tE3#list/path=%2F)  [[Google Drive]](https://drive.google.com/open?id=0B1jt7lJDEXy3aE90cG9YSl9ScUk)
