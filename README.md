@@ -1,5 +1,9 @@
 # Awesome remote sensing vision language models
-This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expand upon it.
+This is a repository for visual language models in remote sensing, including advanced methods and commonly used datasets in different applications, such as image-text retrieval, visual question answering, pretraining, etc.
+
+*If you find any relevant papers that are not included here, please feel free to request them at any time.*
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ## Table of Contents
 * [Surveys](#Surveys)
 * [Applications](#Applications)
