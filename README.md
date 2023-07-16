@@ -32,6 +32,8 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 # Applications
 ## Pretraining
 * [S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions](https://arxiv.org/abs/2305.14095),arxiv 2023 [[code]](https://github.com/alinlab/s-clip)
+
+* [RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2306.11300), arxiv 2023
   
 ## Image Captioning
 * [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
@@ -184,6 +186,8 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
 * [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)  [[data]](https://gcheng-nwpu.github.io/#Datasets)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU#list/path=%2F)  [[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)
 
 * [DIOR-Captions](https://ieeexplore.ieee.org/abstract/document/10066217) Not yet open source.
+  
+* [RS-5M](https://github.com/om-ai-lab/RS5M). [[Github Page]](https://github.com/om-ai-lab/RS5M)  [[HuggingFace Page]](https://huggingface.co/datasets/Zilun/RS5M/viewer/Zilun--RS5M/train?row=0)
 
 ## Text-based Image Generation Dataset
 
