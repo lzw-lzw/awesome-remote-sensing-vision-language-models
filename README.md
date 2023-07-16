@@ -39,7 +39,7 @@ This is a repository for visual language models in remote sensing, including adv
 | Paper                                             |  Published in | Code/Project|                                  
 |---------------------------------------------------|:-------------:|:------------:|
 [S-CLIP: Semi-supervised Vision-Language Pre-training using Few Specialist Captions](https://arxiv.org/abs/2305.14095)|arxiv 2023|[code](https://github.com/alinlab/s-clip)
-[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|arxiv 2023|-
+[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|arxiv 2023|[code](https://github.com/ChenDelong1999/RemoteCLIP)
 [RS5M: A Large Scale Vision-Language Dataset for Remote Sensing Vision-Language Foundation Model](https://arxiv.org/abs/2306.11300)|arxiv 2023|[Project](https://github.com/om-ai-lab/RS5M)
   
 ## Image Captioning
