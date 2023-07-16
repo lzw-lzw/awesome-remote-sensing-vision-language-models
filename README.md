@@ -1,8 +1,8 @@
 # Awesome remote sensing vision language models
 This repository is based on the paper ["Vision-Language Models in Remote Sensing: Current Progress and Future Trends"](https://arxiv.org/abs/2305.05726) and expand upon it.
 ## Table of Contents
-* [Research papers](#Research-papers)
-  * [Surveys](#Surveys)
+* [Surveys](#Surveys)
+* [Applications](#Applications)
   * [Image Captioning](#Image-Captioning)
   * [Text-based Image Generation](#Text-based-Image-Generation)
   * [Text-based Image Retrieval](#Text-based-Image-Retrieval)
@@ -22,11 +22,13 @@ This repository is based on the paper ["Vision-Language Models in Remote Sensing
   * [Few or Zero-shot Object Detection dataset](#Few-Or-Zero-Shot-Object-Detection-Dataset)
   * [Few or Zero-shot Semantic Segmentation dataset](#Few-Or-Zero-Shot-Semantic-Segmentation-Dataset)
 
-# Research papers
-## Surveys
+
+# Surveys
 * [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726), arxiv 2023.
 
 * [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009), arxiv 2023.
+
+# Applications
 ## Image Captioning
 * [Deep Semantic Understanding of High Resolution Remote Sensing Image](https://ieeexplore.ieee.org/abstract/document/7546397), CITS 2016.
 
