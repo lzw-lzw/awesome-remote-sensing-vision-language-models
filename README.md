@@ -104,6 +104,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Change detection meets visual question answering](https://ieeexplore.ieee.org/abstract/document/9901476)|TGRS 2022|[code](https://github.com/YZHJessica/CDVQA)
 [A spatial hierarchical reasoning network for remote sensing visual question answering](https://ieeexplore.ieee.org/abstract/document/10018408)|TGRS 2023|-
 [Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10144189)|JURSE 2023|-
+[LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing](https://arxiv.org/abs/2306.00758)|IGARSS 2023|[code](https://git.tu-berlin.de/rsim/lit4rsvqa)
 
 ## Visual Grounding
 | Paper                                             |  Published in | Code/Project|                                  
