@@ -5,9 +5,9 @@ This is a repository for visual language models in remote sensing, including adv
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ## Table of Contents
-* [Surveys](#Surveys)
-* [Applications](#Applications)
-  * [Pretraining](#Pretraining)
+* [Surveys](#surveys)
+* [Applications](#applications)
+  * [Pretraining](#pretraining)
   * [Image Captioning](#Image-Captioning)
   * [Text-based Image Generation](#Text-based-Image-Generation)
   * [Image text Retrieval](#Image-text-Retrieval)
