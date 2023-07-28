@@ -34,7 +34,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)|arxiv 2023|-|
 [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|arxiv 2023|-|
 
-# Multimodal large-scale model
+# Multimodal large scale model
 | Paper                                             |  Published in | Code/Project|  
 |---------------------------------------------------|:-------------:|:------------:|
 |RemoteGLM|2023|[code](https://github.com/lzw-lzw/RemoteGLM)|
