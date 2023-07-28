@@ -6,7 +6,7 @@ This is a repository for visual language models in remote sensing, including adv
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ## Table of Contents
 * [Surveys](#surveys)
-* [Multimodal large-scale model](multimodal-large-scale-model)
+* [Multimodal large scale model](#multimodal-large-scale-model)
 * [Applications](#applications)
   * [Pretraining](#pretraining)
   * [Image Captioning](#image-captioning)
