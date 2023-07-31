@@ -6,7 +6,7 @@ This is a repository for visual language models in remote sensing, including adv
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 ## Table of Contents
 * [Surveys](#surveys)
-* [Multimodal large scale model](#multimodal-large-scale-model)
+* [Remote Sensing Vision Language Model](#remote-sensing-vision-language-model)
 * [Applications](#applications)
   * [Pretraining](#pretraining)
   * [Image Captioning](#image-captioning)
@@ -34,9 +34,10 @@ This is a repository for visual language models in remote sensing, including adv
 [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)|arxiv 2023|-|
 [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|arxiv 2023|-|
 
-# Multimodal large scale model
+# Remote Sensing Vision Language Model
 | Paper                                             |  Published in | Code/Project|  
 |---------------------------------------------------|:-------------:|:------------:|
+[RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/abs/2307.15266)|arxiv 2023|[code](https://github.com/Lavender105/RSGPT)
 |RemoteGLM|2023|[code](https://github.com/lzw-lzw/RemoteGLM)|
 
 # Applications
