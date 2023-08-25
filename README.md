@@ -93,6 +93,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Multilanguage transformer for improved text to remote sensing image retrieval](https://ieeexplore.ieee.org/abstract/document/9925582)|J-STARS 2022|-
 [Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieva](https://arxiv.org/abs/2204.09868)|TGRS 2022|[code](https://github.com/xiaoyuan1996/AMFMN)
 [Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282)|Applied Sciences 2023|-
+[Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval](https://arxiv.org/abs/2308.12509)|arxiv 2023|-
 
 ## Visual Question Answering
 | Paper                                             |  Published in | Code/Project|                                  
