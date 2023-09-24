@@ -33,6 +33,7 @@ This is a repository for visual language models in remote sensing, including adv
 |---------------------------------------------------|:-------------:|:------------:|
 [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)|arxiv 2023|-|
 [The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|arxiv 2023|-|
+[Brain-inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey](https://ieeexplore.ieee.org/document/10254282/keywords#keywords)|JSTARG 2023|-
 
 # Remote Sensing Vision Language Model
 | Paper                                             |  Published in | Code/Project|  
