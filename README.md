@@ -40,6 +40,7 @@ This is a repository for visual language models in remote sensing, including adv
 |---------------------------------------------------|:-------------:|:------------:|
 [RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/abs/2307.15266)|arxiv 2023|[code](https://github.com/Lavender105/RSGPT)
 |RemoteGLM|2023|[code](https://github.com/lzw-lzw/RemoteGLM)|
+[Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis](https://arxiv.org/abs/2310.04698)|arxiv 2023|-
 
 # Applications
 ## Pretraining
@@ -95,6 +96,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Exploring a fine-grained multiscale method for cross-modal remote sensing image retrieva](https://arxiv.org/abs/2204.09868)|TGRS 2022|[code](https://github.com/xiaoyuan1996/AMFMN)
 [Contrasting dual transformer architectures for multi-modal remote sensing image retrieval](https://www.mdpi.com/2076-3417/13/1/282)|Applied Sciences 2023|-
 [Parameter-Efficient Transfer Learning for Remote Sensing Image-Text Retrieval](https://arxiv.org/abs/2308.12509)|arxiv 2023|-
+[Direction-Oriented Visual-semantic Embedding Model for Remote Sensing Image-text Retrieval](https://arxiv.org/abs/2310.08276)|arxiv 2023|-
 
 ## Visual Question Answering
 | Paper                                             |  Published in | Code/Project|                                  
