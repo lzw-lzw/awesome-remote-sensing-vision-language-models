@@ -41,6 +41,7 @@ This is a repository for visual language models in remote sensing, including adv
 [RSGPT: A Remote Sensing Vision Language Model and Benchmark](https://arxiv.org/abs/2307.15266)|arxiv 2023|[code](https://github.com/Lavender105/RSGPT)
 |RemoteGLM|2023|[code](https://github.com/lzw-lzw/RemoteGLM)|
 [Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis](https://arxiv.org/abs/2310.04698)|arxiv 2023|-
+[Towards Automatic Satellite Images Captions Generation Using Large Language Models](https://arxiv.org/abs/2310.11392)|arxiv 2023|-
 
 # Applications
 ## Pretraining
