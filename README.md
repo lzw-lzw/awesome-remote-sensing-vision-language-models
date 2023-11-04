@@ -150,6 +150,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Language-aware domain generalization network for cross-scene hyperspectral image classification](https://ieeexplore.ieee.org/abstract/document/10005113)|TGRS 2023|[code](https://github.com/YuxiangZhang-BIT/IEEE_TGRS_LDGnet)
 [RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model](https://arxiv.org/abs/2306.16269)|arxiv 2023|[code](https://github.com/KyanChen/RSPrompter)
 [RRSIS: Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2306.08625)|arxiv 2023|-
+[CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](https://arxiv.org/abs/2310.16069)|arxiv 2023|-
 
 
 ## Others
