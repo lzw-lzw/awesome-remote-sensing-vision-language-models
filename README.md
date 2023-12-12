@@ -75,6 +75,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Vlca: vision-language aligning model with cross-modal attention for bilingual remote sensing image captioning](https://ieeexplore.ieee.org/abstract/document/10066217)|J SYST ENG ELECTRON 2023|-
 [Multi-source interactive stair attention for remote sensing image captioning](https://www.mdpi.com/2072-4292/15/3/579)|Remote Sensing 2023|-
 [Changes to Captions: An Attentive Network for Remote Sensing Change Captioning](https://arxiv.org/abs/2304.01091)|arxiv 2023|[code](https://github.com/shizhenchang/chg2cap)
+[Bootstrapping Interactive Image-Text Alignment for Remote Sensing Image Captioning](https://arxiv.org/abs/2312.01191)|arxiv 2023|[code](https://github.com/yangcong356/BITA)
 
 ## Text-based Image Generation
 | Paper                                             |  Published in | Code/Project|                                  
