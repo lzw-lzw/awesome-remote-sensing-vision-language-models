@@ -43,6 +43,7 @@ This is a repository for visual language models in remote sensing, including adv
 [Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis](https://arxiv.org/abs/2310.04698)|arxiv 2023|-
 [Towards Automatic Satellite Images Captions Generation Using Large Language Models](https://arxiv.org/abs/2310.11392)|arxiv 2023|-
 [GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|arxiv 2023|[code](https://github.com/mbzuai-oryx/geochat)
+[SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing](https://arxiv.org/abs/2312.12856)|AAAI 2024| -
 # Applications
 ## Pretraining
 | Paper                                             |  Published in | Code/Project|                                  
