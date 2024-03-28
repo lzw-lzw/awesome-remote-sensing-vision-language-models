@@ -119,6 +119,7 @@ This is a repository for visual language models in remote sensing, including adv
 [A spatial hierarchical reasoning network for remote sensing visual question answering](https://ieeexplore.ieee.org/abstract/document/10018408)|TGRS 2023|-
 [Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10144189)|JURSE 2023|-
 [LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing](https://arxiv.org/abs/2306.00758)|IGARSS 2023|[code](https://git.tu-berlin.de/rsim/lit4rsvqa)
+[Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs](https://arxiv.org/abs/2311.14656)|arXiv 2023|[code](https://github.com/jonathan-roberts1/charting-new-territories)
 
 ## Visual Grounding
 | Paper                                             |  Published in | Code/Project|                                  
@@ -200,6 +201,7 @@ This is a repository for visual language models in remote sensing, including adv
 [NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)|[Home](https://gcheng-nwpu.github.io/#Datasets)|[[OneDrive]](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs)   [[BaiduYun]](https://pan.baidu.com/s/1mifR6tU)
 [AID](https://ieeexplore.ieee.org/abstract/document/7907303)|[Home](https://captain-whu.github.io/AID/)|[[OneDrive]](https://1drv.ms/u/s!AthY3vMZmuxChNR0Co7QHpJ56M-SvQ)  [[BaiduYun]](https://pan.baidu.com/s/1mifOBv6#list/path=%2F)
 [UC Merced Land-Use(UCM)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)|[Home](http://weegee.vision.ucmerced.edu/datasets/landuse.html)|-
+[SATIN](https://arxiv.org/abs/2304.11619)|[Home](https://satinbenchmark.github.io/)|[[HuggingFace]](https://huggingface.co/datasets/jonathan-roberts1/SATIN)
 
 ## Object Detection Dataset
 | Dataset                                            |  Home/Project | Download link|                                  
