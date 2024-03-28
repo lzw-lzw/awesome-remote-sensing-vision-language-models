@@ -119,6 +119,7 @@ This is a repository for visual language models in remote sensing, including adv
 [A spatial hierarchical reasoning network for remote sensing visual question answering](https://ieeexplore.ieee.org/abstract/document/10018408)|TGRS 2023|-
 [Multilingual Augmentation for Robust Visual Question Answering in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/10144189)|JURSE 2023|-
 [LiT-4-RSVQA: Lightweight Transformer-based Visual Question Answering in Remote Sensing](https://arxiv.org/abs/2306.00758)|IGARSS 2023|[code](https://git.tu-berlin.de/rsim/lit4rsvqa)
+[Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs](https://arxiv.org/abs/2311.14656)|arXiv 2023|[code](https://github.com/jonathan-roberts1/charting-new-territories)
 
 ## Visual Grounding
 | Paper                                             |  Published in | Code/Project|                                  
